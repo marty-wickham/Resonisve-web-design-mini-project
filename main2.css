@@ -1,0 +1,10 @@
+.column {
+    float:left;
+    width:30%;
+    height: 50px;
+    background-color: #e84610;
+    margin: 10px;
+}
+
+@media (max-width:)
+
